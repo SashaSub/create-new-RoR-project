@@ -6,3 +6,8 @@
     float: right;
     font-size: medium;
 }
+
+.project_h1 {   
+    font-weight: bold;
+    color: darkslategray;
+}
